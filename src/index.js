@@ -36,7 +36,7 @@ root.render(
 
 // key: e68fb698 
 
-// [master db187a9] - git master id
+// [master db187a9] - git master id temporary
 
 // OMDb API: http://www.omdbapi.com/?i=tt3896198&apikey=e68fb698
 
